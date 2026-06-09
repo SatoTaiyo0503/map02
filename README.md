@@ -1,3 +1,3 @@
-# map01
+# map02
 
-testing
+This is Taiyo's 24/7 izakaya map page
